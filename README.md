@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kristylor
-- 👀 I’m interested in games, I love RPG games such as all Final Fantasy games.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on any beginners projects!
+- 👀 I’m love playing games, my favorite genre is RPG's.
+- 🌱 I’m currently learning Python, SQL and Software Testing.
+- 💞️ I’m looking to collaborate on any beginner friendly projects!
 - 📫 How to reach me kobcua.lor@gmail.com
 
 <!---
